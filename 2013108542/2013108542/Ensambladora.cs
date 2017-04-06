@@ -8,7 +8,7 @@ namespace _2013108542
 {
     class Ensambladora
     {
-        private Carro _carro;
+        
 
     }
 
